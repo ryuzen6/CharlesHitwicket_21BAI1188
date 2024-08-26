@@ -35,22 +35,22 @@ This project is a simple turn-based chess-like game implemented with a server-cl
 
 ## Gameplay Screenshots
 
-Game Display
+### Game Display
 
 ![Screenshot (614)](https://github.com/user-attachments/assets/ad47095c-a4c9-4b40-ace2-d08139f14f3f)
 
-Input Move
+### Input Move
 
 ![Screenshot (615)](https://github.com/user-attachments/assets/a30fae5b-0f2f-4753-ac92-3a6c2bf89c92)
 ![Screenshot (616)](https://github.com/user-attachments/assets/519da2f8-e1a4-48da-929b-0d8a956b3529)
 ![Screenshot (619)](https://github.com/user-attachments/assets/0f9a2df7-3381-4835-85b6-d2e64a6132ee)
 
-Invalid Move
+### Invalid Move
 
 ![Screenshot (621)](https://github.com/user-attachments/assets/bb34d8da-f365-4a98-a4d4-fba53fd6a399)
 ![Screenshot (622)](https://github.com/user-attachments/assets/5ad7a778-977f-48a8-8285-026bf9ea7063)
 
-Not your Turn
+### Not your Turn
 
 ![Screenshot (618)](https://github.com/user-attachments/assets/aa9c5b96-8504-41fe-9a0e-17aeac5abfa9)
 
